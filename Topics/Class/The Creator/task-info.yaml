@@ -2,11 +2,11 @@ type: code
 files:
 - name: main.py
   visible: true
-  text: '# start a RockBand here'
+  text: '# create an Elf here'
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/6667#comment
+feedback_link: https://hyperskill.org/learn/step/6666#comment
 status: Solved
 feedback:
   message: <html>Correct solution</html>
-  time: Fri, 27 Aug 2021 09:28:38 UTC
+  time: Fri, 27 Aug 2021 09:35:48 UTC
 record: -1
